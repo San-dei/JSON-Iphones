@@ -1,0 +1,1645 @@
+{
+  "iphoneTienda": [
+    {
+      "modelo": "Iphone",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone-original-colors.jpg",
+
+      "precio": "50000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas",
+        "reproducción-de-video": "hasta 7 horas",
+        "reproducción-de-audio": "hasta 24 horas"
+      }
+    },
+
+    {
+      "modelo": "Iphone3G",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone3g-colors.jpg",
+
+      "precio": " 70000",
+
+      "medidas": {
+        "alto": "115,5 mm",
+        "ancho": "62,1 mm",
+        "grosor": "12,3 mm"
+      },
+
+      "peso": "133 g",
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "capacidad": "Unidad flash de 8 o 16 GB",
+
+      "conectividad": {
+        "red": "UMTS/HSDPA (850, 1.900 y 2.100 MHz)",
+        "navegador": "GSM/EDGE (850, 900, 1.800 y 1.900 MHz)",
+        "wi-fi": "wi-fi(802.11b/g)",
+        "bluetooth": "Bluetooth 2.0 + EDR"
+      },
+
+      "gps": "GPS asistido",
+
+      "caja-contenido": {
+        "celular": "iPhone 3G",
+        "Auricular": "Auriculares estéreo con micrófono",
+        "conectores": "Cable de Base Dock a USB",
+        "adaptador": "Adaptador de Corriente con USB",
+        "documentacion": "Documentación",
+        "articulo-limpieza": "Paño de limpieza",
+        "otros": "Herramienta para extracción de tarjeta SIM"
+      },
+      "caracteristica-panatalla": {
+        "pantalla": "Panorámica Multi-Touch de 3,5 pulgadas (en diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "energia": {
+        "bateria": "Batería recargable de iones de litio integrada",
+        "tiempo": "5 horas con 3g-10 horas con 2g",
+        "inactivdad": "300 horas",
+        "uso-de-internet": "Hasta 5 horas con 3G-6 hasta 6 horas con Wi-Fi7",
+        "reproducciónr-de-vídeo": "hasta 7 horas8",
+        "reproducciónr-de-audio": "hasta 24 horas9"
+      }
+    },
+
+    {
+      "modelo": "Iphone3GS",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone3gs-colors.jpg",
+
+      "precio": "90000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "62,1 mm",
+        "grosor": "12.3 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (902.11b/g)",
+        "navegador": "EDGE/CHROME",
+        "Bluetooth": "Bluetooth 3.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro",
+        "dorado": "dorado"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 4,0 pulgadas (diagonal)",
+        "resolucion": "Resolución de 580 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 9 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 7 horas 4",
+        "reproducción-de-video": "hasta 8 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone4S",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone4s-colors.jpg",
+
+      "precio": "95.000",
+
+      "medidas": {
+        "altura": "135 mm",
+        "ancho": "51 mm",
+        "grosor": "10.6 mm"
+      },
+
+      "peso": "155 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone5",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB o 32 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (1002.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro",
+        "azul": "azul",
+        "gris": "gris"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 5,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 680 por 420 píxeles a 263 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 9 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 7 horas 5",
+        "reproducción-de-video": "hasta 9 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone5C",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone5c-colors.jpg",
+
+      "precio": "100000",
+
+      "medidas": {
+        "altura": "145 mm",
+        "ancho": "81 mm",
+        "grosor": "9.6 mm"
+      },
+
+      "peso": "165 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone5C",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB o 32 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (1040.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 4.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro",
+        "rosado": "rosado",
+        "verde": "verde"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 880 por 520 píxeles a 363 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 12 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 450 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 9 horas 5",
+        "reproducción-de-audio": "hasta 34 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone5S",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone5s-colors.jpg",
+
+      "precio": "115000",
+
+      "medidas": {
+        "altura": "145 mm",
+        "ancho": "70 mm",
+        "grosor": "12.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 16 GB o 32 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (902.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 980 por 620 píxeles a 263 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 9 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 150 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 6 Plus",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone6plus-colors.jpg",
+
+      "precio": "125000",
+
+      "medidas": {
+        "altura": "165 mm",
+        "ancho": "81 mm",
+        "grosor": "8.6 mm"
+      },
+
+      "peso": "115 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares Mono",
+        "soporte": "Ni",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 16 GB o 32 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro",
+        "gris": "gris"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 8,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1080 por 720 píxeles a 300 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 10 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 8 horas 4",
+        "reproducción-de-video": "hasta 9 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 6",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone6-colors.jpg",
+
+      "precio": "127000",
+
+      "medidas": {
+        "altura": "105 mm",
+        "ancho": "97 mm",
+        "grosor": "7.6 mm"
+      },
+
+      "peso": "190 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 6",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1080 por 720 píxeles a 363 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 6s Plus",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-iphone6-colors.jpg",
+
+      "precio": "135000",
+
+      "medidas": {
+        "altura": "165 mm",
+        "ancho": "71 mm",
+        "grosor": "18.6 mm"
+      },
+
+      "peso": "205 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 6s Plus",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 10 horas 4",
+        "reproducción-de-video": "hasta 10 horas 5",
+        "reproducción-de-audio": "hasta 34 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone SE",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone_se/iphone-se-colors.jpg",
+
+      "precio": "150000",
+
+      "medidas": {
+        "altura": "135 mm",
+        "ancho": "71 mm",
+        "grosor": "5.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (2802.11b/g)",
+        "navegador": "chrome",
+        "Bluetooth": "Bluetooth 5.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 9,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1080 por 720 píxeles a 363 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 270 horas 3",
+        "uso-de-Internet": "Hasta 8 horas 4",
+        "reproducción-de-video": "hasta 10 horas 5",
+        "reproducción-de-audio": "hasta 45 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 7 Plus",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone7plus/iphone7plus-colors.jpg",
+
+      "precio": "170000",
+
+      "medidas": {
+        "altura": "185 mm",
+        "ancho": "91 mm",
+        "grosor": "3.6 mm"
+      },
+
+      "peso": "176 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "No",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 16 GB o 128 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (1902.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 4.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro",
+        "dorado": "dorado",
+        "verde": "verde"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 9,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1180 por 820 píxeles a 863 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 8 horas 4",
+        "reproducción-de-video": "hasta 9 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 7",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone7/iphone7-colors.jpg",
+
+      "precio": "175000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "132 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 7",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 10 horas 2",
+        "reproducción-de-video": "hasta 4 horas 5",
+        "reproducción-de-audio": "hasta 14 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 8 Plus",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone8/iphone-8-colors.jpg",
+
+      "precio": "190000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 8 Plus",
+        "auricular": "no",
+        "soporte": "no",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 16 GB o 64 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (3302.11b/g)",
+        "navegador": "mozilla",
+        "Bluetooth": "Bluetooth 3.5+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 12,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1080 por 920 píxeles a 363 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas ",
+        "reproducción-de-video": "hasta 10 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 8",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone8/iphone-8-colors.jpg",
+
+      "precio": "195000",
+
+      "medidas": {
+        "altura": "175 mm",
+        "ancho": "91 mm",
+        "grosor": "4.6 mm"
+      },
+
+      "peso": "185 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 8",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 16 GB o 32 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8102.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 1.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 363 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone X",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-x-colors.jpg",
+
+      "precio": "190000",
+
+      "medidas": {
+        "altura": "195 mm",
+        "ancho": "60 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "195 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone X",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 32 GB o 64 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8002.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 5.0+EDR"
+      },
+
+      "colores": {
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 17,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 680 por 920 píxeles a 263 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas 4",
+        "reproducción-de-video": "hasta 10",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "IphoneXR",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
+
+      "precio": "200000",
+
+      "medidas": {
+        "altura": "105 mm",
+        "ancho": "71 mm",
+        "grosor": "7.6 mm"
+      },
+
+      "peso": "177 gramos",
+
+      "caja-contenido": {
+        "celular": "IphoneXR",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 128 ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (4802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 6.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 9,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 780 por 420 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone X MAX",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-xs-max-colors.jpg",
+
+      "precio": "205000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone X MAX",
+        "auricular": "Auriculares estereo",
+        "soporte": "No",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (552.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 9.0+EDR"
+      },
+
+      "colores": {
+        "gris": "gris"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1080 por 920 píxeles a 463 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas",
+        "reproducción-de-video": "hasta 10 horas ",
+        "reproducción-de-audio": "hasta 24 horas "
+      }
+    },
+
+    {
+      "modelo": "Iphone XS",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-xs-colors.jpg",
+
+      "precio": "210000",
+
+      "medidas": {
+        "altura": "205 mm",
+        "ancho": "91 mm",
+        "grosor": "15.6 mm"
+      },
+
+      "peso": "200 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone XS",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 264 GB",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 17,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 2080 por 1020 píxeles a 663 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3"
+      }
+    },
+
+    {
+      "modelo": "Iphone 11",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11-colors.jpg",
+
+      "precio": "215000",
+
+      "medidas": {
+        "altura": "165 mm",
+        "ancho": "81 mm",
+        "grosor": "10.6 mm"
+      },
+
+      "peso": "195 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 11",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8002.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 6.0+EDR"
+      },
+
+      "colores": {
+        "negro": "negro",
+        "gris": "gris"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 20 pulgadas (diagonal)",
+        "resolucion": "Resolución de 3080 por 1020 píxeles a 763 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas 4",
+        "reproducción-de-video": "hasta 8 horas",
+        "reproducción-de-audio": "hasta 44 horas"
+      }
+    },
+
+    {
+      "modelo": "Iphone 11 pro max",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11pro-max.jpg",
+
+      "precio": "220000",
+
+      "medidas": {
+        "altura": "215 mm",
+        "ancho": "101 mm",
+        "grosor": "9.6 mm"
+      },
+
+      "peso": "195 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "conectores": "Conector de basea cable USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 128 GB o 256 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "OPERA",
+        "Bluetooth": "Bluetooth 4.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro",
+        "verde": "verde",
+        "dorado": "dorado"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 10,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1080 por 620 píxeles a 993 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas 4",
+        "reproducción-de-video": "hasta 9 horas 5",
+        "reproducción-de-audio": "hasta 34 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 11 pro",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11pro.jpg",
+
+      "precio": "230000",
+
+      "medidas": {
+        "altura": "125 mm",
+        "ancho": "71 mm",
+        "grosor": "4.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 11 pro",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8002.11b/g)",
+        "navegador": "EDGE/firefox",
+        "Bluetooth": "Bluetooth 3.0+EDR"
+      },
+
+      "colores": {
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 17,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 1480 por 1320 píxeles a 963 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas 4",
+        "reproducción-de-video": "hasta 8 horas 5",
+        "reproducción-de-audio": "hasta 774 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone SE",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone_se/iphone-se-2nd-gen-colors.jpg",
+
+      "precio": "235000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone SE (segunda generacion)",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 8 horas 4",
+        "reproducción-de-video": "hasta 8 horas 5",
+        "reproducción-de-audio": "hasta 84 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 12",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2021-iphone12-mini-colors.png",
+
+      "precio": "240000",
+
+      "medidas": {
+        "altura": "205 mm",
+        "ancho": "60 mm",
+        "grosor": "13.6 mm"
+      },
+
+      "peso": "100 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 12",
+        "auricular": "Auriculares estereo",
+        "soporte": "No",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8020.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 7.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 2080 por 920 píxeles a 463 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 8 horas 4",
+        "reproducción-de-video": "hasta 5 horas 5",
+        "reproducción-de-audio": "hasta 64 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 12 mini",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2021-iphone12-colors.png",
+
+      "precio": "245000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 13",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-iphone13-mini-colors.png",
+
+      "precio": "250000",
+
+      "medidas": {
+        "altura": "125 mm",
+        "ancho": "61 mm",
+        "grosor": "8.6 mm"
+      },
+
+      "peso": "175 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 13",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 32 GB o 128 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8002.11b/g)",
+        "navegador": "safari",
+        "Bluetooth": "Bluetooth 6.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 9 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 10 horas 4",
+        "reproducción-de-video": "hasta 12 horas 5",
+        "reproducción-de-audio": "hasta 32 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 13 pro max",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-spring-iphone13-colors.png",
+
+      "precio": "250000",
+
+      "medidas": {
+        "altura": "215 mm",
+        "ancho": "98 mm",
+        "grosor": "5.6 mm"
+      },
+
+      "peso": "195 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 32 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "azul": "azul",
+        "rosado": "rosado"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 9,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 763 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 90 horas ",
+        "reproducción-de-video": "hasta 70 horas ",
+        "reproducción-de-audio": "hasta 24 horas "
+      }
+    },
+
+    {
+      "modelo": "Iphone SE 3",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-se-3rd-gen-colors.png",
+
+      "precio": "255000",
+
+      "medidas": {
+        "altura": "125 mm",
+        "ancho": "81 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "180 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 3080 por 1020 píxeles a 1063 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 14 pro",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-spring-iphone13-colors.png",
+
+      "precio": "260000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone",
+        "auricular": "Auriculares estereo",
+        "soporte": "Si",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 8 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 2.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 480 por 320 píxeles a 163 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 14",
+
+      "imagen": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-spring-iphone13-colors.png",
+
+      "precio": "265000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 14",
+        "auricular": "inhalambrico",
+        "soporte": "No",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 64 GB o 16 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (8002.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 4.0+EDR"
+      },
+
+      "colores": {
+        "blanco": "blanco",
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 4080 por 3020 píxeles a 1063 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 9 horas 4",
+        "reproducción-de-video": "hasta 6 horas 5",
+        "reproducción-de-audio": "hasta 14 horas 6"
+      }
+    },
+
+    {
+      "modelo": "Iphone 14 pro max",
+
+      "imagen":"https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-14-plus-colors.png",
+
+      "precio": "270000",
+
+      "medidas": {
+        "altura": "115 mm",
+        "ancho": "61 mm",
+        "grosor": "11.6 mm"
+      },
+
+      "peso": "135 gramos",
+
+      "caja-contenido": {
+        "celular": "Iphone 14 pro max",
+        "auricular": "inhalambrico",
+        "soporte": "No",
+        "conectores": "Conector de basea cable USB ",
+        "adaptador": "Adaptador de corriente USB ",
+        "documentacion": "Documentación ",
+        "articulo-limpieza": "Paño de limpieza/pulido"
+      },
+
+      "capacidad": "Unidad flash de 256 GB o 520 GB ",
+
+      "conectividad": {
+        "wifi": "Wi-Fi (802.11b/g)",
+        "navegador": "EDGE",
+        "Bluetooth": "Bluetooth 5.0+EDR"
+      },
+
+      "colores": {
+        "negro": "negro"
+      },
+
+      "caracteristica-panatalla": {
+        "pantalla": "Pantalla multitáctil panorámica de 3,5 pulgadas (diagonal)",
+        "resolucion": "Resolución de 2080 por 720 píxeles a 463 ppp"
+      },
+
+      "s.o": "IOS",
+
+      "energia": {
+        "bateria": "Batería de iones de litio recargable incorporada",
+        "tiempo": "Tiempo de conversación: hasta 8 horas 2",
+        "inactividad-duracion": "Tiempo en espera: hasta 250 horas 3",
+        "uso-de-Internet": "Hasta 6 horas 4",
+        "reproducción-de-video": "hasta 7 horas 5",
+        "reproducción-de-audio": "hasta 24 horas 6"
+      }
+    }
+  ]
+}
